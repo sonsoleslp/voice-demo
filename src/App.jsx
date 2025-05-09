@@ -74,7 +74,7 @@ const App = () => {
         fontSize: '20px',
         fontFamily: 'sans-serif'
       }}>
-        Say <em>"alohomora"</em> to unlock the door
+        Say <em>"{command}"</em> to unlock the door
       </div>
     </div>
   );
